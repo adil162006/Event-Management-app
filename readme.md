@@ -17,13 +17,4 @@ A simple and elegant Event Management App built using HTML, CSS, and JavaScript.
 - Vanilla JavaScript
 - Browser LocalStorage API
 
-## 📷 Screenshots
 
-![Screenshot](screenshot.png) <!-- Optional: Add a screenshot of the app UI -->
-
-## 🛠️ How to Run the Project
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/event-management-app.git
-   cd event-management-app
