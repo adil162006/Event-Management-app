@@ -92,5 +92,5 @@ function deleteEvent(id) {
     }
 }
 
-// Initial display of events
+// Initial display of events        
 displayEvents();
