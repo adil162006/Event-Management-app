@@ -15,6 +15,6 @@ A simple and elegant Event Management App built using HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- Browser LocalStorage API
+- Browser LocalStorage API 
 
 
